@@ -44,8 +44,8 @@ $ npm install
 To run this project:
 
 ```
-$ node app.js
+$ npm start
 ```
 
 ## License 
-This project is open source and available under the [MIT License](https://github.com/lasanthamudalige/todo-list-node/blob/main/LICENSE).
+This project is open source and available under the [MIT License](https://github.com/lasanthamudalige/keeper-app/blob/main/LICENSE).
