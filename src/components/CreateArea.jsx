@@ -73,8 +73,8 @@ function CreateArea(props) {
                         </Fab>
                     </Zoom>
                 </div>
-            </form >
-        </div >
+            </form>
+        </div>
     );
 }
 
